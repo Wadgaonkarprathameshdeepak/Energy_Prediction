@@ -1,0 +1,127 @@
+Year,City,Waste_Type,Collected_Waste,Recycled_Waste,Recycling_Rate,Energy_Genrate
+2010,Jalna,Food waste,640500,102400,0.16,0
+2010,Jalna,Paper/Cardboard,1383900,738200,0.53,1
+2010,Jalna,Plastics,740400,78100,0.11,1
+2010,Jalna,Construction Debris,921800,912400,0.99,1
+2010,Jalna,Wood/Timber,270000,190000,0.7,1
+2010,Jalna,Horticultural Waste,251000,99200,0.4,1
+2010,Jalna,Ferrous Metal,1194600,1127500,0.94,1
+2010,Jalna,Non-ferrous Metals,85500,73100,0.85,1
+2010,Jalna,Used Slag,382700,378900,0.99,1
+2010,Jalna,Sludge,114400,0,0,0
+2010,Jalna,Glass,79900,19200,0.24,0
+2010,Jalna,Textile/Leather,120900,14700,0.12,0
+2010,Jalna,Scrap Tyres,24000,20000,0.83,1
+2010,Jalna,"Others (stones, ceramics & rubber etc)",307400,3800,0.01,0
+2011,Jalna,Food waste,675500,69700,0.1,0
+2011,Jalna,Paper/Cardboard,1368200,765000,0.56,1
+2011,Jalna,Plastics,733000,77000,0.11,0
+2011,Jalna,Construction Debris,1203700,1191100,0.99,1
+2011,Jalna,Wood/Timber,273900,176500,0.64,1
+2011,Jalna,Horticultural Waste,238800,89000,0.37,1
+2011,Jalna,Ferrous Metal,1239200,1171600,0.95,1
+2011,Jalna,Non-ferrous Metals,117300,102800,0.88,1
+2011,Jalna,Used Slag,341600,335900,0.98,1
+2011,Jalna,Sludge,152900,0,0,0
+2011,Jalna,Glass,72800,21400,0.29,0
+2011,Jalna,Textile/Leather,131000,17300,0.13,0
+2011,Jalna,Scrap Tyres,22000,18300,0.83,1
+2011,Jalna,"Others (stones, ceramics & rubber etc)",328400,3200,0.01,0
+2012,Jalna,Food waste,703200,85100,0.12,0
+2012,Jalna,Paper/Cardboard,1252000,696700,0.56,1
+2012,Jalna,Plastics,803400,82100,0.1,0
+2012,Jalna,Construction Debris,1291800,1282700,0.99,1
+2012,Jalna,Wood/Timber,343800,236000,0.69,1
+2012,Jalna,Horticultural Waste,247800,108000,0.44,1
+2012,Jalna,Ferrous Metal,1386000,1331200,0.96,1
+2012,Jalna,Non-ferrous Metals,122500,97300,0.79,1
+2012,Jalna,Used Slag,367800,358000,0.97,1
+2012,Jalna,Sludge,160200,0,0,0
+2012,Jalna,Glass,74900,19500,0.26,0
+2012,Jalna,Textile/Leather,159300,18300,0.11,0
+2012,Jalna,Scrap Tyres,18400,16100,0.88,1
+2012,Jalna,"Others (stones, ceramics & rubber etc)",338400,4600,0.01,0
+2013,Jalna,Food waste,796000,100000,0.13,0
+2013,Jalna,Paper/Cardboard,1261100,679400,0.54,1
+2013,Jalna,Plastics,832200,91100,0.11,0
+2013,Jalna,Construction Debris,1695300,1683000,0.99,1
+2013,Jalna,Wood/Timber,332400,254600,0.77,1
+2013,Jalna,Horticultural Waste,252600,120900,0.48,1
+2013,Jalna,Ferrous Metal,1416000,1369200,0.97,1
+2013,Jalna,Non-ferrous Metals,135100,114000,0.84,1
+2013,Jalna,Used Slag,353700,344800,0.97,1
+2013,Jalna,Sludge,190600,14200,0.07,0
+2013,Jalna,Glass,73500,14600,0.2,0
+2013,Jalna,Textile/Leather,156600,16300,0.1,0
+2013,Jalna,Scrap Tyres,21600,19000,0.88,1
+2013,Jalna,"Others (stones, ceramics & rubber etc)",334800,4800,0.01,0
+2014,Jalna,Food waste,788600,101400,0.13,0
+2014,Jalna,Paper/Cardboard,1237400,646500,0.52,1
+2014,Jalna,Plastics,869000,80000,0.09,0
+2014,Jalna,Construction Debris,1269700,1260000,0.99,1
+2014,Jalna,Wood/Timber,278300,163000,0.59,1
+2014,Jalna,Horticultural Waste,367900,293400,0.8,1
+2014,Jalna,Ferrous Metal,1445900,1388900,0.96,1
+2014,Jalna,Non-ferrous Metals,118400,94700,0.8,1
+2014,Jalna,Used Slag,366300,361200,0.99,1
+2014,Jalna,Sludge,148500,21700,0.15,1
+2014,Jalna,Glass,79500,15700,0.2,0
+2014,Jalna,Textile/Leather,158600,16800,0.11,0
+2014,Jalna,Scrap Tyres,26200,23100,0.88,1
+2014,Jalna,"Others (stones, ceramics & rubber etc)",360100,4700,0.01,0
+2015,Jalna,Food waste,785500,104100,0.13,0
+2015,Jalna,Paper/Cardboard,1192200,603700,0.51,1
+2015,Jalna,Plastics,824600,57800,0.07,0
+2015,Jalna,Construction Debris,1411800,1402900,0.99,1
+2015,Jalna,Wood/Timber,362000,237200,0.66,1
+2015,Jalna,Horticultural Waste,370600,293700,0.79,1
+2015,Jalna,Ferrous Metal,1348500,1333300,0.99,1
+2015,Jalna,Non-ferrous Metals,180000,160400,0.89,1
+2015,Jalna,Used Slag,369900,365800,0.99,1
+2015,Jalna,Sludge,196000,25200,0.13,0
+2015,Jalna,Glass,75200,14600,0.19,0
+2015,Jalna,Textile/Leather,156700,12500,0.08,0
+2015,Jalna,Scrap Tyres,35500,32800,0.92,1
+2015,Jalna,"Others (stones, ceramics & rubber etc)",365000,5700,0.02,0
+2016,Jalna,Food waste,791000,111100,0.14,0
+2016,Jalna,Paper/Cardboard,1183100,607100,0.51,1
+2016,Jalna,Plastics,822200,59500,0.07,0
+2016,Jalna,Construction Debris,1595400,1585700,0.99,1
+2016,Jalna,Wood/Timber,320500,209000,0.65,1
+2016,Jalna,Horticultural Waste,530700,411600,0.78,1
+2016,Jalna,Ferrous Metal,1357500,1351500,0.99,1
+2016,Jalna,Non-ferrous Metals,97200,95900,0.99,1
+2016,Jalna,Used Slag,251100,247000,0.98,1
+2016,Jalna,Sludge,227300,28300,0.13,0
+2016,Jalna,Glass,72300,14700,0.2,0
+2016,Jalna,Textile/Leather,150700,10900,0.07,0
+2016,Jalna,Scrap Tyres,32700,29700,0.91,1
+2016,Jalna,"Others (stones, ceramics & rubber etc)",382500,7000,0.02,0
+2017,Jalna,Food waste,1609300,1599900,0.99,1
+2017,Jalna,Paper/Cardboard,1378800,1371000,0.99,1
+2017,Jalna,Plastics,272500,269400,0.99,1
+2017,Jalna,Construction Debris,93700,92200,0.98,1
+2017,Jalna,Wood/Timber,35900,33000,0.92,1
+2017,Jalna,Horticultural Waste,424100,326800,0.77,1
+2017,Jalna,Ferrous Metals,328300,220700,0.67,1
+2017,Jalna,Non-ferrous Metals,1144800,568800,0.5,1
+2017,Jalna,Used Slag,71300,12400,0.17,0
+2017,Jalna,Sludge,809800,133000,0.16,0
+2017,Jalna,Glass,243400,28600,0.12,0
+2017,Jalna,Textile/Leather,815200,51800,0.06,0
+2017,Jalna,Scrap Tyres,150800,9600,0.06,0
+2017,Jalna,"Others (stones, ceramics & rubber etc)",326400,7100,0.02,0
+2018,Jalna,Food waste,606100,76700,0.13,0
+2018,Jalna,Paper/Cardboard,1201000,574200,0.48,1
+2018,Jalna,Plastics,688900,60300,0.09,0
+2018,Jalna,Construction Debris,1175800,1150700,0.98,1
+2018,Jalna,Wood/Timber,287600,207400,0.72,1
+2018,Jalna,Horticultural Waste,238100,93500,0.39,1
+2018,Jalna,Ferrous Metal,872000,806200,0.92,1
+2018,Jalna,Non-ferrous Metals,57600,47500,0.82,1
+2018,Jalna,Used Slag,422400,418600,0.99,1
+2018,Jalna,Sludge,88900,0,0,0
+2018,Jalna,Glass,73100,15600,0.21,0
+2018,Jalna,Textile/Leather,109100,12600,0.12,0
+2018,Jalna,Scrap Tyres,22600,18700,0.83,1
+2018,Jalna,"Others (stones, ceramics & rubber etc)",270900,3200,0.01,0
